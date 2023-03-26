@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jyotsna Penumaka
 =========================================================================================================================================
 
-Hey there, I'm Jyotsna, a graduate student at Columbia University studying computer engineering, and I'm super passionate about using technology to create a safer world. I'm so grateful for my background in computer science and software development, and I'm always excited to learn more about programming languages like Python, Rust, C, C++, and Java.
+Hey there, how's it going? I'm Jyotsna, a graduate student at Columbia University studying computer engineering. I absolutely love using technology to make the world a safer place! I feel incredibly fortunate to have a background in computer science and software development, and I'm always excited to learn more about programming languages like Python, Rust, C, C++, and Java.
 
-I actually earned my B.S. in Computer Engineering from Boston University, where I was fortunate enough to receive the Boston University Undergraduate Research Opportunities Program Award. During my time there, I also had the opportunity to work as a software engineer at Red Hat and as a software engineering intern at the same company. I've also dabbled in research as a research assistant at Boston University, where I analyzed the performance of security defense mechanisms.
+I earned my B.S. in Computer Engineering from Boston University, where I had some amazing opportunities like receiving the Boston University Undergraduate Research Opportunities Program Award, and working as a software engineer at Red Hat as well as a software engineering intern. Plus, I even got to do some research as a research assistant at Boston University where I analyzed the performance of security defense mechanisms.
 
-If you're interested in my work, I've developed and implemented some pretty complex systems in operating systems, vulnerability, malware, and defensive systems. I'm really proud of those projects! Outside of work, I'm an avid runner and love to binge-watch TV shows. If you're looking for someone to chat with, I'm your gal.
+If you're curious about my work, I've developed and implemented some really cool systems in operating systems, vulnerability, malware, and defensive systems. And, one of my favorite projects involved hacking Dating apps 😜 : https://github.com/muzmu/Vulnerability-Analysis/blob/main/report.pdf ! On a lighter note, outside of work, I love running and binging TV shows. If you ever want to chat about running or the latest TV craze, I'm your girl!
 
-Overall, I believe my expertise, skills, and experience make me a valuable addition to any team, and I'm excited about the potential for a successful career in the field of technology.
+Overall, I believe my expertise, skills, and experience make me a valuable addition to any team. I'm super excited about the potential for a successful career in the field of technology!
 
 * 💻 Welcome to my GitHub profile! I am a passionate computer engineering graduate student at Columbia University, specializing in Cybersecurity.
 * 📧 You can reach me at jp4321@columbia.edu (mailto:jp4321@columbia.edu) for any questions or project ideas. 
