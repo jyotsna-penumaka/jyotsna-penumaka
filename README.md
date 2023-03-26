@@ -20,11 +20,11 @@ Hey there, how's it going? I'm Jyotsna, a graduate student at Columbia Universit
 
 I earned my B.S. in Computer Engineering from Boston University, where I had some amazing opportunities like receiving the Boston University Undergraduate Research Opportunities Program Award, and working as a software engineer at Red Hat as well as a software engineering intern. Plus, I even got to do some research as a research assistant at Boston University where I analyzed the performance of security defense mechanisms.
 
-If you're curious about my work, I've developed and implemented some really cool systems in operating systems, vulnerability, malware, and defensive systems. And, one of my favorite projects involved hacking Dating apps 😜 : https://github.com/muzmu/Vulnerability-Analysis/blob/main/report.pdf ! On a lighter note, outside of work, I love running and binging TV shows. If you ever want to chat about running or the latest TV craze, I'm your girl!
+If you're curious about my work, I've developed and implemented some really cool systems in operating systems, vulnerability, malware, and defensive systems. And, one of my favorite projects involved [hacking Dating apps 💔](https://github.com/jyotsna-penumaka/Vulnerability-Analysis/blob/96aa12de5280c7135b0feea37e8194b81dd308ae/report.pdf)! On a lighter note, outside of work, I love running and binging TV shows. If you ever want to chat about running or the latest TV craze, I'm your girl!
 
 Overall, I believe my expertise, skills, and experience make me a valuable addition to any team. I'm super excited about the potential for a successful career in the field of technology!
 
-* 💻 Welcome to my GitHub profile! I am a passionate computer engineering graduate student at Columbia University, specializing in Cybersecurity.
+* Welcome to my GitHub profile! I am a passionate computer engineering graduate student at Columbia University, specializing in Cybersecurity.
 * 📧 You can reach me at jp4321@columbia.edu (mailto:jp4321@columbia.edu) for any questions or project ideas. 
 * 🎓 I hold a Bachelor's degree in Computer Engineering from Boston University and am currently pursuing my Master's degree at Columbia University.
 * 🔐 My focus is on cybersecurity and developing secure software. I am constantly learning new ways to write safer code and keep up-to-date with the latest security trends.
