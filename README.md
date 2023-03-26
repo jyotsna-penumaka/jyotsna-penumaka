@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jyotsna Penumaka
 =========================================================================================================================================
 
-Jyotsna is an exceptional computer engineering graduate student at Columbia University, driven by a passion for leveraging technology to create a safer world. Her extensive background in computer science and software development is evident from her impressive proficiency in a range of programming languages, including Python, Rust, C, C++, and Java.
+Hey there, I'm Jyotsna, a graduate student at Columbia University studying computer engineering, and I'm super passionate about using technology to create a safer world. I'm so grateful for my background in computer science and software development, and I'm always excited to learn more about programming languages like Python, Rust, C, C++, and Java.
 
-With a solid foundation in computer engineering, Jyotsna earned her B.S. in Computer Engineering from Boston University, where she was recognized with the Boston University Undergraduate Research Opportunities Program Award. Her practical experience in the field of software engineering includes working as a software engineer at Red Hat and as a software engineering intern at the same company. Additionally, Jyotsna has experience in research, having worked as a research assistant at Boston University where she analyzed the performance of security defense mechanisms.
+I actually earned my B.S. in Computer Engineering from Boston University, where I was fortunate enough to receive the Boston University Undergraduate Research Opportunities Program Award. During my time there, I also had the opportunity to work as a software engineer at Red Hat and as a software engineering intern at the same company. I've also dabbled in research as a research assistant at Boston University, where I analyzed the performance of security defense mechanisms.
 
-Jyotsna's projects in operating systems and vulnerability, malware, and defensive systems showcase her ability to develop and implement complex systems. Moreover, Jyotsna is a dynamic individual with a keen interest in binge-watching and running, making her a delightful person to converse with. Her expertise, skills, and experience make her a valuable addition to any team, and she is a promising candidate for a successful career in the field of technology.
+If you're interested in my work, I've developed and implemented some pretty complex systems in operating systems, vulnerability, malware, and defensive systems. I'm really proud of those projects! Outside of work, I'm an avid runner and love to binge-watch TV shows. If you're looking for someone to chat with, I'm your gal.
+
+Overall, I believe my expertise, skills, and experience make me a valuable addition to any team, and I'm excited about the potential for a successful career in the field of technology.
 
 * 💻 Welcome to my GitHub profile! I am a passionate computer engineering graduate student at Columbia University, specializing in Cybersecurity.
 * 📧 You can reach me at jp4321@columbia.edu (mailto:jp4321@columbia.edu) for any questions or project ideas. 
